@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Chiro Totem",
+    "slug": "chiro-totem",
+    "version": "1.0.0",
+    "scheme": "chirototem",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "be.chirototem.app" },
+    "android": { "package": "be.chirototem.app" },
+    "web": { "bundler": "metro" },
+    "plugins": ["expo-router"]
+  }
+}
